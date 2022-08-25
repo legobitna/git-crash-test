@@ -1,3 +1,3 @@
-freshman
+senior
 more contents here
 
